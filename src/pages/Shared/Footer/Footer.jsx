@@ -59,7 +59,7 @@ const Footer = () => {
       </div>
       <footer className="footer footer-center p-4 bg-[#151515] text-white">
         <div>
-          <p>Copyright © CulinaryCloud {year}. All rights reserved.</p>
+          <p>Copyright © Bistro Boss {year}. All rights reserved.</p>
         </div>
       </footer>
     </div>
