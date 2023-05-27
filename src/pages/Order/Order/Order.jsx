@@ -11,7 +11,6 @@ import { Helmet } from "react-helmet-async";
 const Order = () => {
     const categories = ['salad', 'pizza', 'soup', 'desert', 'drinks']
     const {category} = useParams();
-    console.log(category)
 
     const initialIndex = categories.indexOf(category)
 
